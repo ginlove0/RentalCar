@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+    <car>
+        <category>Sedan</category>
+        <availability>False</availability>
+        <brand>Toyota</brand>
+        <model>Camry</model>
+        <model_year>2013</model_year>
+        <mileage>10000</mileage>
+        <fuel_type>petrol</fuel_type>
+        <seats>5</seats>
+        <price_per_day>$120</price_per_day>
+        <description>good car</description>
+    </car>
+    <car>
+        <category>SUV</category>
+        <availability>True</availability>
+        <brand>Nissan</brand>
+        <model>X-Trail</model>
+        <model_year>2015</model_year>
+        <mileage>10000</mileage>
+        <fuel_type>petrol</fuel_type>
+        <seats>5</seats>
+        <price_per_day>$150</price_per_day>
+        <description>good car</description>
+    </car>
+    <car>
+        <category>Sedan</category>
+        <availability>True</availability>
+        <brand>VolksWagen</brand>
+        <model>Golf</model>
+        <model_year>2017</model_year>
+        <mileage>96123</mileage>
+        <fuel_type>petrol</fuel_type>
+        <seats>5</seats>
+        <price_per_day>$130</price_per_day>
+        <description>good car</description>
+    </car>
+    <car>
+        <category>Sedan</category>
+        <availability>True</availability>
+        <brand>Honda</brand>
+        <model>Civic</model>
+        <model_year>2018</model_year>
+        <mileage>18000</mileage>
+        <fuel_type>petrol</fuel_type>
+        <seats>5</seats>
+        <price_per_day>$1220</price_per_day>
+        <description>good car</description>
+    </car>
+    <car>
+        <category>SUV</category>
+        <availability>True</availability>
+        <brand>Holden</brand>
+        <model>Captiva</model>
+        <model_year>2013</model_year>
+        <mileage>10900</mileage>
+        <fuel_type>petrol</fuel_type>
+        <seats>5</seats>
+        <price_per_day>$110</price_per_day>
+        <description>good car</description>
+    </car>
+    <car>
+        <category>UTE</category>
+        <availability>False</availability>
+        <brand>Suzuki</brand>
+        <model>Jinmy</model>
+        <model_year>2013</model_year>
+        <mileage>12456</mileage>
+        <fuel_type>petrol</fuel_type>
+        <seats>5</seats>
+        <price_per_day>$170</price_per_day>
+        <description>good car</description>
+    </car>
+    <car>
+        <category>Sedan</category>
+        <availability>False</availability>
+        <brand>BMW</brand>
+        <model>320i</model>
+        <model_year>2019</model_year>
+        <mileage>23451</mileage>
+        <fuel_type>petrol</fuel_type>
+        <seats>5</seats>
+        <price_per_day>$4020</price_per_day>
+        <description>good car</description>
+    </car>
+    <car>
+        <category>Sedan</category>
+        <availability>False</availability>
+        <brand>Mecsedes</brand>
+        <model>GLC</model>
+        <model_year>2018</model_year>
+        <mileage>200</mileage>
+        <fuel_type>petrol</fuel_type>
+        <seats>5</seats>
+        <price_per_day>$10020</price_per_day>
+        <description>good car</description>
+    </car>
+    <car>
+        <category>SUV</category>
+        <availability>True</availability>
+        <brand>Jeep</brand>
+        <model>Cherokee</model>
+        <model_year>2013</model_year>
+        <mileage>98234</mileage>
+        <fuel_type>petrol</fuel_type>
+        <seats>5</seats>
+        <price_per_day>$130</price_per_day>
+        <description>good car</description>
+    </car>
+    <car>
+        <category>Sedan</category>
+        <availability>False</availability>
+        <brand>Hyundai</brand>
+        <model>Sonata</model>
+        <model_year>2018</model_year>
+        <mileage>23451</mileage>
+        <fuel_type>petrol</fuel_type>
+        <seats>5</seats>
+        <price_per_day>$160</price_per_day>
+        <description>good car</description>
+    </car>
+</cars>
