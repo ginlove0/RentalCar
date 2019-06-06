@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cars>
     <car>
+        <id>1</id>
         <category>Sedan</category>
         <availability>False</availability>
         <brand>Toyota</brand>
@@ -11,8 +12,10 @@
         <seats>5</seats>
         <price_per_day>$120</price_per_day>
         <description>good car</description>
+        <img>Camry.jpg</img>
     </car>
     <car>
+        <id>2</id>
         <category>SUV</category>
         <availability>True</availability>
         <brand>Nissan</brand>
@@ -23,8 +26,10 @@
         <seats>5</seats>
         <price_per_day>$150</price_per_day>
         <description>good car</description>
+        <img>X-trail.jpg</img>
     </car>
     <car>
+        <id>3</id>
         <category>Sedan</category>
         <availability>True</availability>
         <brand>VolksWagen</brand>
@@ -35,8 +40,10 @@
         <seats>5</seats>
         <price_per_day>$130</price_per_day>
         <description>good car</description>
+        <img>Golf.jpg</img>
     </car>
     <car>
+        <id>4</id>
         <category>Sedan</category>
         <availability>True</availability>
         <brand>Honda</brand>
@@ -47,8 +54,10 @@
         <seats>5</seats>
         <price_per_day>$1220</price_per_day>
         <description>good car</description>
+        <img>Civic.jpg</img>
     </car>
     <car>
+        <id>5</id>
         <category>SUV</category>
         <availability>True</availability>
         <brand>Holden</brand>
@@ -59,8 +68,10 @@
         <seats>5</seats>
         <price_per_day>$110</price_per_day>
         <description>good car</description>
+        <img>Captiva.jpg</img>
     </car>
     <car>
+        <id>6</id>
         <category>UTE</category>
         <availability>False</availability>
         <brand>Suzuki</brand>
@@ -71,8 +82,10 @@
         <seats>5</seats>
         <price_per_day>$170</price_per_day>
         <description>good car</description>
+        <img>Jimny.jpg</img>
     </car>
     <car>
+        <id>7</id>
         <category>Sedan</category>
         <availability>False</availability>
         <brand>BMW</brand>
@@ -83,8 +96,10 @@
         <seats>5</seats>
         <price_per_day>$4020</price_per_day>
         <description>good car</description>
+        <img>320i.jpg</img>
     </car>
     <car>
+        <id>8</id>
         <category>Sedan</category>
         <availability>False</availability>
         <brand>Mecsedes</brand>
@@ -95,8 +110,10 @@
         <seats>5</seats>
         <price_per_day>$10020</price_per_day>
         <description>good car</description>
+        <img>GLC.jpg</img>
     </car>
     <car>
+        <id>9</id>
         <category>SUV</category>
         <availability>True</availability>
         <brand>Jeep</brand>
@@ -107,8 +124,10 @@
         <seats>5</seats>
         <price_per_day>$130</price_per_day>
         <description>good car</description>
+        <img>Cherokee.jpg</img>
     </car>
     <car>
+        <id>10</id>
         <category>Sedan</category>
         <availability>False</availability>
         <brand>Hyundai</brand>
@@ -119,5 +138,6 @@
         <seats>5</seats>
         <price_per_day>$160</price_per_day>
         <description>good car</description>
+        <img>Sonata.jpg</img>
     </car>
 </cars>
